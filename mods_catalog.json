@@ -238,7 +238,15 @@
     "fileSize": "12,8 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Pudge rojito lvl1",
+    "name": "Pudge rojito lvl1",
+    "description": "Pudge rojito lvl1 sin items SOLO ARCANA",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_192927_Pudge_rojito_lvl1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_192927_Pudge_rojito_lvl1.zip",
+    "fileSize": "21,5 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
-
 ]
-
