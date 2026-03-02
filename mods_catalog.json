@@ -208,5 +208,15 @@
     "fileSize": "4,8 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcana void efectos",
+    "name": "arcana void efectos",
+    "description": "arcana void efectos extras",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_181307_arcana_void_efectos.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_181307_arcana_void_efectos.zip",
+    "fileSize": "13,0 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
