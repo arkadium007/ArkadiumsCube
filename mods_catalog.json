@@ -218,5 +218,15 @@
     "fileSize": "13,0 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcana void",
+    "name": "arcana void",
+    "description": "arcana void normalito",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_181339_arcana_void.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_181339_arcana_void.zip",
+    "fileSize": "12,8 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
