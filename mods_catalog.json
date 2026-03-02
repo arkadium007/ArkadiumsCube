@@ -1,16 +1,16 @@
 [
   {
-    "id": "rick-morty-announcer",
-    "name": "Announcer: Rick and Morty",
-    "description": "El clásico announcer de Rick y Morty extraído para Arkadium's Cube.",
+    "id": "shaders purple",
+    "name": "shaders purple",
+    "description": "efecto de shaders color purpura ",
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/4d1eae213d7c227d265f0ead7a66e580af1a70a0/Aghanim%20Purple%20Shader.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Aghanim%20Purple%20Shader.zip",
-    "fileSize": "45 MB"
+    "fileSize": "1 MB"
   },
   {
     "id": "glaos-megakill",
-    "name": "MegaKill: GLaDOS",
-    "description": "Las voces de GLaDOS de Portal animando tus asesinatos.",
+    "name": "prueba papus",
+    "description": "aqui subiremos arcanos y apareceran directo ",
     "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/glados.jpg",
     "downloadUrl": "https://github.com/arkadium007/TusModsAqui/releases/download/v1.0/GladosMegakill.zip",
     "fileSize": "12 MB"
