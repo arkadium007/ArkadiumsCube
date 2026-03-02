@@ -168,5 +168,15 @@
     "fileSize": "4,8 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcano pha full fuego",
+    "name": "arcano pha full fuego",
+    "description": "arcano pha full fuego",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_180835_arcano_pha_full_fuego.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_180835_arcano_pha_full_fuego.zip",
+    "fileSize": "5,0 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
