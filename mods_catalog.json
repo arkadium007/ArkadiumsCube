@@ -108,5 +108,15 @@
     "fileSize": "16,6 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcano legion lvl 2",
+    "name": "arcano legion lvl 2",
+    "description": "legion con efectos de particulas de fuego",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_161912_arcano_legion_lvl_2.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_161912_arcano_legion_lvl_2.zip",
+    "fileSize": "17,0 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
