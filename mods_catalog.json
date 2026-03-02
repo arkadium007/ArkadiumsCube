@@ -178,5 +178,15 @@
     "fileSize": "5,0 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcano pha",
+    "name": "arcano pha",
+    "description": "arcano pha normalita",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_180917_arcano_pha_.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_180917_arcano_pha_.zip",
+    "fileSize": "4,8 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
