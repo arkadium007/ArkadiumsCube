@@ -148,5 +148,15 @@
     "fileSize": "12,6 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcano earthshaker blue 1",
+    "name": "arcano earthshaker blue 1",
+    "description": "arcano shaker normalito",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_180649_arcano_earthshaker_blue_1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_180649_arcano_earthshaker_blue_1.zip",
+    "fileSize": "12,0 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
