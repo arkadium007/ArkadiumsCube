@@ -6,7 +6,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/4d1eae213d7c227d265f0ead7a66e580af1a70a0/Aghanim%20Purple%20Shader.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Aghanim%20Purple%20Shader.zip",
     "fileSize": "1 MB",
-	"category": "Shaders", 
+    "category": "Shaders",
     "creator": "OTROS"
   },
   {
@@ -16,7 +16,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20amarillo%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20amarillo%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -26,7 +26,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20verde%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20verde%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -36,7 +36,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20blanco%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20blanco%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -46,7 +46,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20lila%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20lila%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -56,7 +56,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20naranja%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20naranja%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -66,7 +66,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20rojo%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20rojo%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -76,7 +76,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20rosa%20bajito%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20rosa%20bajito%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -86,7 +86,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20rosa%20ext.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20rosa%20ext.zip",
     "fileSize": "21 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -96,7 +96,17 @@
     "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/glados.jpg",
     "downloadUrl": "https://github.com/arkadium007/TusModsAqui/releases/download/v1.0/GladosMegakill.zip",
     "fileSize": "12 MB",
-	"category": "Arcanas", 
+    "category": "Arcanas",
     "creator": "Defiree"
+  },
+  {
+    "id": "arcano legion lvl 1",
+    "name": "arcano legion lvl 1",
+    "description": "arcano legion normal pero con items",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_132638_arcano_legion_lvl_1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_132638_arcano_legion_lvl_1.zip",
+    "fileSize": "16,6 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
