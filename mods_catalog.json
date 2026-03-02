@@ -118,5 +118,15 @@
     "fileSize": "17,0 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcano legion lvl 3",
+    "name": "arcano legion lvl 3",
+    "description": "arcano legion full efectos fuego",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_162007_arcano_legion_lvl_3.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_162007_arcano_legion_lvl_3.zip",
+    "fileSize": "18,0 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
