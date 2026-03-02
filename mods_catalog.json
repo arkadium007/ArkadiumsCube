@@ -6,6 +6,18 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/4d1eae213d7c227d265f0ead7a66e580af1a70a0/Aghanim%20Purple%20Shader.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Aghanim%20Purple%20Shader.zip",
     "fileSize": "1 MB"
+	"category": "Shaders", 
+    "creator": "OTROS"
+  },
+  {
+    "id": "Terrorblade verde ext",
+    "name": "Terrorblade verde ext",
+    "description": "TERRORBLADE VERDECITO ",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/Terrorblade%20verde%20ext.png",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/refs/heads/main/Terrorblade%20verde%20ext.zip",
+    "fileSize": "1 MB"
+	"category": "Arcanas", 
+    "creator": "OTROS"
   },
   {
     "id": "glaos-megakill",
@@ -14,5 +26,7 @@
     "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/glados.jpg",
     "downloadUrl": "https://github.com/arkadium007/TusModsAqui/releases/download/v1.0/GladosMegakill.zip",
     "fileSize": "12 MB"
+	"category": "Shaders", 
+    "creator": "Darkness"
   }
 ]
