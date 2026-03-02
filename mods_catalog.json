@@ -188,5 +188,15 @@
     "fileSize": "4,8 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Juggernaut rojo y flamas",
+    "name": "Juggernaut rojo y flamas",
+    "description": "Juggernaut rojo y flamas",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_181155_Juggernaut_rojo_y_flamas.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_181155_Juggernaut_rojo_y_flamas.zip",
+    "fileSize": "5,9 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
