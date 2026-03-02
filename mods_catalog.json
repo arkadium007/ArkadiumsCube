@@ -128,5 +128,15 @@
     "fileSize": "18,0 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "arcano earthshaker blue efectos lvl2",
+    "name": "arcano earthshaker blue efectos lvl2",
+    "description": "shaker blue efectos extra frost",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_162111_arcano_earthshaker_blue_efectos_lvl2.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_162111_arcano_earthshaker_blue_efectos_lvl2.zip",
+    "fileSize": "12,7 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
