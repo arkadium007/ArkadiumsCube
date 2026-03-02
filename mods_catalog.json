@@ -198,5 +198,15 @@
     "fileSize": "5,9 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Juggernaut rojo",
+    "name": "Juggernaut rojo",
+    "description": "Juggernaut rojo normalito",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_181233_Juggernaut_rojo.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_181233_Juggernaut_rojo.zip",
+    "fileSize": "4,8 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
