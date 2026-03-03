@@ -298,5 +298,15 @@
     "fileSize": "4,0 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Rubick SOLO ARCANO",
+    "name": "Rubick SOLO ARCANO",
+    "description": "Rubick SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_203321_Rubick_SOLO_ARCANO.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_203321_Rubick_SOLO_ARCANO.zip",
+    "fileSize": "11,1 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
