@@ -408,5 +408,15 @@
     "fileSize": "0,8 MB",
     "category": "Otros",
     "creator": "Otros"
+  },
+  {
+    "id": "Aghanim Red Shader",
+    "name": "Aghanim Red Shader",
+    "description": "Aghanim Red Shader",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_142630_Aghanim_Red_Shader.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_142630_Aghanim_Red_Shader.zip",
+    "fileSize": "0,8 MB",
+    "category": "Otros",
+    "creator": "Otros"
   }
 ]
