@@ -328,5 +328,15 @@
     "fileSize": "3,6 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "shadowfiend SOLO ARCANO",
+    "name": "shadowfiend SOLO ARCANO",
+    "description": "shadowfiend SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_204444_shadowfiend_SOLO_ARCANO.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_204444_shadowfiend_SOLO_ARCANO.zip",
+    "fileSize": "3,8 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
