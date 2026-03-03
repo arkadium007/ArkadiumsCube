@@ -368,5 +368,15 @@
     "fileSize": "33,2 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Techies SOLO ARCANO",
+    "name": "Techies SOLO ARCANO",
+    "description": "Techies SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_210716_Techies_SOLO_ARCANO.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_210716_Techies_SOLO_ARCANO.zip",
+    "fileSize": "3,3 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
