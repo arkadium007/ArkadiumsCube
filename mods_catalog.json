@@ -448,5 +448,15 @@
     "fileSize": "0,5 MB",
     "category": "Shaders",
     "creator": "Otros"
+  },
+  {
+    "id": "Wave Lite Pink",
+    "name": "Wave Lite Pink",
+    "description": "Wave Lite Pink",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_143828_Wave_Lite_Pink.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_143828_Wave_Lite_Pink.zip",
+    "fileSize": "0,5 MB",
+    "category": "Shaders",
+    "creator": "Otros"
   }
 ]
