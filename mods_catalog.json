@@ -318,5 +318,15 @@
     "fileSize": "4,5 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Legion Commander SOLO ARCANO",
+    "name": "Legion Commander SOLO ARCANO",
+    "description": "Legion Commander SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_203820_Legion_Commander_SOLO_ARCANO_.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_203820_Legion_Commander_SOLO_ARCANO.zip",
+    "fileSize": "3,6 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
