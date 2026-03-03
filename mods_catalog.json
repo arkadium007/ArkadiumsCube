@@ -16,7 +16,7 @@
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/assets/mods/Drow%20arcano%20lvl1%20roja.png",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/shaders/Drow.arcano.lvl1.roja.zip",
     "fileSize": "70 MB",
-    "category": "Shaders",
+    "category": "Arcanas",
     "creator": "OTROS"
   },
   {
@@ -406,7 +406,7 @@
     "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_142543_Aghanim_Green_Shader.png",
     "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_142543_Aghanim_Green_Shader.zip",
     "fileSize": "0,8 MB",
-    "category": "Otros",
+    "category": "Shaders",
     "creator": "Otros"
   },
   {
@@ -416,7 +416,7 @@
     "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_142630_Aghanim_Red_Shader.png",
     "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_142630_Aghanim_Red_Shader.zip",
     "fileSize": "0,8 MB",
-    "category": "Otros",
+    "category": "Shaders",
     "creator": "Otros"
   },
   {
@@ -429,4 +429,5 @@
     "category": "Shaders",
     "creator": "Otros"
   }
+
 ]
