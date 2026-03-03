@@ -388,5 +388,15 @@
     "fileSize": "20,4 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "calabazas",
+    "name": "calabazas",
+    "description": "arboles calabazas",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_142127_calabazas.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_142127_calabazas.zip",
+    "fileSize": "2,2 MB",
+    "category": "Otros",
+    "creator": "Otros"
   }
 ]
