@@ -458,5 +458,15 @@
     "fileSize": "0,5 MB",
     "category": "Shaders",
     "creator": "Otros"
+  },
+  {
+    "id": "Wave White Shader",
+    "name": "Wave White Shader",
+    "description": "Wave White Shader",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_143945_Wave_White_Shader.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_143945_Wave_White_Shader.zip",
+    "fileSize": "0,5 MB",
+    "category": "Shaders",
+    "creator": "Otros"
   }
 ]
