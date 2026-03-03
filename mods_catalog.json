@@ -398,5 +398,15 @@
     "fileSize": "2,2 MB",
     "category": "Otros",
     "creator": "Otros"
+  },
+  {
+    "id": "Aghanim Green Shader",
+    "name": "Aghanim Green Shader",
+    "description": "Aghanim Green Shader",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_142543_Aghanim_Green_Shader.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_142543_Aghanim_Green_Shader.zip",
+    "fileSize": "0,8 MB",
+    "category": "Otros",
+    "creator": "Otros"
   }
 ]
