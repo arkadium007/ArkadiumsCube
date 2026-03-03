@@ -428,6 +428,15 @@
     "fileSize": "0,8 MB",
     "category": "Shaders",
     "creator": "Otros"
+  },
+  {
+    "id": "shader crema",
+    "name": "shader crema",
+    "description": "shader crema",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_143231_shader_crema.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_143231_Aghanim_Peach_Shader.zip",
+    "fileSize": "1,9 MB",
+    "category": "Shaders",
+    "creator": "Otros"
   }
-
 ]
