@@ -288,5 +288,15 @@
     "fileSize": "12,3 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Juggernaut SOLO ARCANO VERDE",
+    "name": "Juggernaut SOLO ARCANO VERDE",
+    "description": "Juggernaut SOLO ARCANO VERDE",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_203038_Juggernaut_SOLO_ARCANO_VERDE.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_203038_Juggernaut_SOLO_ARCANO_VERDE.zip",
+    "fileSize": "4,0 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
