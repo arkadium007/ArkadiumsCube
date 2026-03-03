@@ -308,5 +308,15 @@
     "fileSize": "11,1 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Razor SOLO ARCANO",
+    "name": "Razor SOLO ARCANO",
+    "description": "Razor SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_203527_Razor_SOLO_ARCANO.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_203527_Razor_SOLO_ARCANO.zip",
+    "fileSize": "4,5 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
