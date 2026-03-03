@@ -268,5 +268,15 @@
     "fileSize": "3,9 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Lina lvl 1 SOLO ARCANO",
+    "name": "Lina lvl 1 SOLO ARCANO",
+    "description": "Lina lvl 1 SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_201515_Lina_lvl_1_SOLO_ARCANO.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_201515_Lina_lvl_1_SOLO_ARCANO.zip",
+    "fileSize": "1,5 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
