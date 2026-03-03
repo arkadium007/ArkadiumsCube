@@ -438,5 +438,15 @@
     "fileSize": "1,9 MB",
     "category": "Shaders",
     "creator": "Otros"
+  },
+  {
+    "id": "Wave Red Shader",
+    "name": "Wave Red Shader",
+    "description": "Wave Red Shader",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_143720_Wave_Red_Shader.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_143720_Wave_Red_Shader.zip",
+    "fileSize": "0,5 MB",
+    "category": "Shaders",
+    "creator": "Otros"
   }
 ]
