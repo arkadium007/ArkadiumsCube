@@ -258,5 +258,15 @@
     "fileSize": "9,2 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Crystal Maiden arcano lvl 1",
+    "name": "Crystal Maiden arcano lvl 1",
+    "description": "Crystal Maiden arcano lvl 1  SOLO ARCANO SIN ITEMS EXTRA",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_201213_Crystal_Maiden_arcano_lvl_1_.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_201213_Crystal_Maiden_arcano_lvl_1.zip",
+    "fileSize": "3,9 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
