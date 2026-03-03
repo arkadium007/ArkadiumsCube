@@ -338,5 +338,15 @@
     "fileSize": "3,8 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Spectre SOLO ARCANO",
+    "name": "Spectre SOLO ARCANO",
+    "description": "Spectre SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_204855_Spectre_SOLO_ARCANO.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_204855_Spectre_SOLO_ARCANO.zip",
+    "fileSize": "6,5 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
