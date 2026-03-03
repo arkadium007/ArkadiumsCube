@@ -358,5 +358,15 @@
     "fileSize": "6,7 MB",
     "category": "Otros",
     "creator": "Otros"
+  },
+  {
+    "id": "Skywrath Mage SOLO ARCANO",
+    "name": "Skywrath Mage SOLO ARCANO",
+    "description": "Skywrath Mage SOLO ARCANO",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_210445_Skywrath_Mage_SOLO_ARCANO.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_210445_Skywrath_Mage_SOLO_ARCANO.zip",
+    "fileSize": "33,2 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
