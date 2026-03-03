@@ -248,5 +248,15 @@
     "fileSize": "21,5 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Queenofpain lvl1 blue",
+    "name": "Queenofpain lvl1 blue",
+    "description": "Queenofpain lvl1 blue solo arcana sin items ni efectos extras",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260302_200703_Queenofpain_lvl1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260302_200703_Queenofpain_lvl1.zip",
+    "fileSize": "9,2 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
