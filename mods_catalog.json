@@ -418,5 +418,15 @@
     "fileSize": "0,8 MB",
     "category": "Otros",
     "creator": "Otros"
+  },
+  {
+    "id": "shader blanco",
+    "name": "shader blanco",
+    "description": "shader blanco",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260303_142803_shader_blanco.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260303_142803_Aghanim_White_Shader.zip",
+    "fileSize": "0,8 MB",
+    "category": "Shaders",
+    "creator": "Otros"
   }
 ]
