@@ -468,5 +468,15 @@
     "fileSize": "0,5 MB",
     "category": "Shaders",
     "creator": "Otros"
+  },
+  {
+    "id": "Queenofpain rosita by defiree",
+    "name": "Queenofpain rosita by defiree",
+    "description": "Queenofpain rosita by defiree",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260304_005119_Queenofpain_rosita_by_defiree.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260304_005119_Queenofpain_rosita_by_defiree.zip",
+    "fileSize": "15,4 MB",
+    "category": "Arcanas",
+    "creator": "Defiree"
   }
 ]
