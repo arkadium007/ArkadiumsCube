@@ -488,5 +488,15 @@
     "fileSize": "17,0 MB",
     "category": "Otros",
     "creator": "Otros"
+  },
+  {
+    "id": "map Low Poly Complete Edition",
+    "name": "map Low Poly Complete Edition",
+    "description": "map Low Poly Complete Edition by darkness",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260307_151112_map_Low_Poly_Complete_Edition.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260307_151112_map_Low_Poly_Complete_Edition.zip",
+    "fileSize": "9,0 MB",
+    "category": "Otros",
+    "creator": "Darkness"
   }
 ]
