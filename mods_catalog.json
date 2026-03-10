@@ -508,5 +508,15 @@
     "fileSize": "15,8 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "marci_editado",
+    "name": "marci_editado",
+    "description": "marci_arkadium_pink",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260309_231418_marci_editado.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260309_231418_marci_editado.zip",
+    "fileSize": "3,7 MB",
+    "category": "Otros",
+    "creator": "Otros"
   }
 ]
