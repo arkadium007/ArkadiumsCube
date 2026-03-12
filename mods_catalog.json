@@ -20,6 +20,16 @@
     "creator": "OTROS"
   },
   {
+    "id": "Drow azul SOLO ARCANO",
+    "name": "Drow azul SOLO ARCANO",
+    "description": "Drow azul SOLO ARCANO",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/assets/mods/20260312_120329_Drow_azul_SOLO_ARCANO.png",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/arcanas/Drow.azul.SOLO.ARCANO.zip",
+    "fileSize": "60 MB",
+    "category": "Arcanas",
+    "creator": "OTROS"
+  },
+  {
     "id": "Terrorblade amarillo ext",
     "name": "Terrorblade amarillo ext",
     "description": "TERRORBLADE AMARILLITO ",
@@ -519,4 +529,5 @@
     "category": "Otros",
     "creator": "Otros"
   }
+
 ]
