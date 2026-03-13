@@ -528,6 +528,15 @@
     "fileSize": "3,7 MB",
     "category": "Otros",
     "creator": "Otros"
+  },
+  {
+    "id": "wk SOLO ARCANO rojo lvl 1",
+    "name": "wk SOLO ARCANO rojo lvl 1",
+    "description": "wk SOLO ARCANO rojo lvl 1",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260312_230322_wk_SOLO_ARCANO_rojo_lvl_1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260312_230322_wk_SOLO_ARCANO_rojo_lvl_1.zip",
+    "fileSize": "4,2 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
-
 ]
