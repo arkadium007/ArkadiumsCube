@@ -10,6 +10,16 @@
     "creator": "OTROS"
   },
   {
+    "id": "Juggernaut_twin",
+    "name": "Juggernaut_twin",
+    "description": "Juggernaut_twin",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/raw/main/assets/mods/20260322_225445_Juggernaut_twin.png",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Juggernaut_twin/Juggernaut.twin.zip",
+    "fileSize": "49 MB",
+    "category": "Arcanas",
+    "creator": "OTROS"
+  },
+  {
     "id": "Drow arcano lvl1 roja",
     "name": "Drow arcano lvl1 roja",
     "description": "Drow arcano lvl1 roja normalita ",
