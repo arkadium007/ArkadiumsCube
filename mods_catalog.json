@@ -558,5 +558,15 @@
     "fileSize": "4,2 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "facevoid lava by darkness",
+    "name": "facevoid lava by darkness",
+    "description": "facevoid lava by darkness",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260413_140530_facevoid_lava_by_darkness.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260413_140530_facevoid_lava_by_darkness.zip",
+    "fileSize": "20,7 MB",
+    "category": "Arcanas",
+    "creator": "Darkness"
   }
 ]
