@@ -568,5 +568,15 @@
     "fileSize": "20,7 MB",
     "category": "Arcanas",
     "creator": "Darkness"
+  },
+  {
+    "id": "runitas",
+    "name": "runitas",
+    "description": "runitas by darknessw",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260417_173856_runitas.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260417_173856_runitas.zip",
+    "fileSize": "3,7 MB",
+    "category": "Otros",
+    "creator": "Darkness"
   }
 ]
