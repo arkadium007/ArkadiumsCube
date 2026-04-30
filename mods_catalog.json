@@ -588,5 +588,15 @@
     "fileSize": "7,9 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "Morphling white by darkness",
+    "name": "Morphling white by darkness",
+    "description": "Morphling white by darkness morphiling blanco",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260430_122747_Morphling_white_by_darkness.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260430_122747_Morphling_white_by_darkness.zip",
+    "fileSize": "6,2 MB",
+    "category": "Otros",
+    "creator": "Darkness"
   }
 ]
