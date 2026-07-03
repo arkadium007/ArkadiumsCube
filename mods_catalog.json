@@ -598,5 +598,15 @@
     "fileSize": "6,2 MB",
     "category": "Otros",
     "creator": "Darkness"
+  },
+  {
+    "id": "monkeybluearcano",
+    "name": "Monkey King blue",
+    "description": "Monkey King blue",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260703_124005_Monkey_King_blue.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260703_124005_Monkey_King_blue.zip",
+    "fileSize": "32,4 MB",
+    "category": "Arcanas",
+    "creator": "Otros"
   }
 ]
