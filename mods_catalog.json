@@ -608,5 +608,15 @@
     "fileSize": "32,4 MB",
     "category": "Arcanas",
     "creator": "Otros"
+  },
+  {
+    "id": "oraclepersona1",
+    "name": "oraclepersona1",
+    "description": "oraclepersona1",
+    "imageUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/assets/mods/20260710_232849_oracle_persona.png",
+    "downloadUrl": "https://raw.githubusercontent.com/arkadium007/ArkadiumsCube/main/mods/20260710_232849_oracle_persona.zip",
+    "fileSize": "12,8 MB",
+    "category": "Otros",
+    "creator": "Otros"
   }
 ]
