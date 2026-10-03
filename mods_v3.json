@@ -26,5 +26,161 @@
       "arcana"
     ],
     "githubReleaseId": "402296496"
+  },
+  {
+    "id": "oracle_automata",
+    "name": "Oracle automata",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_oracle_automata/20261003_143357_Oracle.automata.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_oracle_automata/20261003_143357_Oracle.automata.zip",
+    "fileSize": "23,5 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640326"
+  },
+  {
+    "id": "antimage_woman_persona",
+    "name": "Antimage woman persona",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_antimage_woman_persona/20261003_143404_Antimage.woman.persona.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_antimage_woman_persona/20261003_143404_Antimage.woman.persona.zip",
+    "fileSize": "18,7 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640366"
+  },
+  {
+    "id": "axe_automata",
+    "name": "Axe automata",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_axe_automata/20261003_143409_Axe.automata.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_axe_automata/20261003_143409_Axe.automata.zip",
+    "fileSize": "14,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640420"
+  },
+  {
+    "id": "bristleback_automata",
+    "name": "Bristleback automata",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_bristleback_automata/20261003_143414_Bristleback.automata.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_bristleback_automata/20261003_143414_Bristleback.automata.zip",
+    "fileSize": "14,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640442"
+  },
+  {
+    "id": "crystal_persona_normal",
+    "name": "crystal persona normal",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_crystal_persona_normal/20261003_143419_crystal.persona.normal.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_crystal_persona_normal/20261003_143419_crystal.persona.normal.zip",
+    "fileSize": "27,9 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640474"
+  },
+  {
+    "id": "dragon_knight_persona",
+    "name": "Dragon Knight persona",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_dragon_knight_persona/20261003_143425_Dragon.Knight.persona.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_dragon_knight_persona/20261003_143425_Dragon.Knight.persona.zip",
+    "fileSize": "26,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640516"
+  },
+  {
+    "id": "invoker_persona_normal",
+    "name": "Invoker persona normal",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_invoker_persona_normal/20261003_143431_Invoker.persona.normal.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_invoker_persona_normal/20261003_143431_Invoker.persona.normal.zip",
+    "fileSize": "20,4 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640561"
+  },
+  {
+    "id": "legion_commander_automata",
+    "name": "Legion Commander automata",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_legion_commander_automata/20261003_143437_Legion.Commander.automata.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_legion_commander_automata/20261003_143437_Legion.Commander.automata.zip",
+    "fileSize": "13,8 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640587"
+  },
+  {
+    "id": "mirana_persona",
+    "name": "mirana persona",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_mirana_persona/20261003_143441_mirana.persona.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_mirana_persona/20261003_143441_mirana.persona.zip",
+    "fileSize": "32,5 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640606"
+  },
+  {
+    "id": "morphling_automata",
+    "name": "Morphling automata",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_morphling_automata/20261003_143449_Morphling.automata.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_morphling_automata/20261003_143449_Morphling.automata.zip",
+    "fileSize": "16,9 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640643"
+  },
+  {
+    "id": "pudge_persona_normal",
+    "name": "Pudge persona normal",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_persona_normal/20261003_143453_Pudge.persona.normal.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_persona_normal/20261003_143453_Pudge.persona.normal.zip",
+    "fileSize": "46,3 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640668"
+  },
+  {
+    "id": "phantom_assassin_persona",
+    "name": "Phantom Assassin persona",
+    "description": "item persona by skinchanger",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_phantom_assassin_persona/20261003_143503_Phantom.Assassin.persona.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_phantom_assassin_persona/20261003_143503_Phantom.Assassin.persona.zip",
+    "fileSize": "43,6 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402640737"
   }
 ]
