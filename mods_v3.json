@@ -194,5 +194,408 @@
       "persona"
     ],
     "githubReleaseId": "402640737"
+  },
+  {
+    "id": "monkey_king_arcano_base_blanco",
+    "name": "Monkey King arcano base blanco",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_monkey_king_arcano_base_blanco/20261003_153030_Monkey.King.arcano.base.blanco.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_monkey_king_arcano_base_blanco/20261003_153030_Monkey.King.arcano.base.blanco.zip",
+    "fileSize": "36,0 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402659899"
+  },
+  {
+    "id": "lina_arcano_base",
+    "name": "Lina arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_lina_arcano_base/20261003_153040_Lina.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_lina_arcano_base/20261003_153040_Lina.arcano.base.zip",
+    "fileSize": "5,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402659951"
+  },
+  {
+    "id": "legion_commander_arcano_base",
+    "name": "Legion Commander arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_legion_commander_arcano_base/20261003_153043_Legion.Commander.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_legion_commander_arcano_base/20261003_153043_Legion.Commander.arcano.base.zip",
+    "fileSize": "7,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402659979"
+  },
+  {
+    "id": "juggernaut_arcano_base_rojo",
+    "name": "Juggernaut arcano base rojo",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_juggernaut_arcano_base_rojo/20261003_153047_Juggernaut.arcano.base.rojo.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_juggernaut_arcano_base_rojo/20261003_153047_Juggernaut.arcano.base.rojo.zip",
+    "fileSize": "12,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660007"
+  },
+  {
+    "id": "faceless_void_arcano_base",
+    "name": "Faceless Void arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_faceless_void_arcano_base/20261003_153051_Faceless.Void.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_faceless_void_arcano_base/20261003_153051_Faceless.Void.arcano.base.zip",
+    "fileSize": "19,6 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660036"
+  },
+  {
+    "id": "earthshaker_arcano_base_rojo_",
+    "name": "Earthshaker arcano base rojo ",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earthshaker_arcano_base_rojo_/20261003_153056_Earthshaker.arcano.base.rojo.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earthshaker_arcano_base_rojo_/20261003_153056_Earthshaker.arcano.base.rojo.zip",
+    "fileSize": "22,6 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660063"
+  },
+  {
+    "id": "drow_arcano_base",
+    "name": "Drow arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_drow_arcano_base/20261003_153102_Drow.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_drow_arcano_base/20261003_153102_Drow.arcano.base.zip",
+    "fileSize": "70,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660100"
+  },
+  {
+    "id": "crystal_maiden_arcano_base",
+    "name": "Crystal Maiden arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_crystal_maiden_arcano_base/20261003_153115_Crystal.Maiden.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_crystal_maiden_arcano_base/20261003_153115_Crystal.Maiden.arcano.base.zip",
+    "fileSize": "11,3 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660177"
+  },
+  {
+    "id": "zeus_arcano_base",
+    "name": "zeus arcano base",
+    "description": "arcano base \u002B inmortal para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_zeus_arcano_base/20261003_153119_zeus.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_zeus_arcano_base/20261003_153119_zeus.arcano.base.zip",
+    "fileSize": "15,3 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660198"
+  },
+  {
+    "id": "wk__arcano_base_hueso",
+    "name": "wk  arcano base hueso",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wk__arcano_base_hueso/20261003_153123_wk.arcano.base.hueso.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wk__arcano_base_hueso/20261003_153123_wk.arcano.base.hueso.zip",
+    "fileSize": "7,4 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660228"
+  },
+  {
+    "id": "wisp_io_arcano_base",
+    "name": "Wisp io arcano base",
+    "description": "arcano base solo ",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wisp_io_arcano_base/20261003_153127_Wisp.io.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wisp_io_arcano_base/20261003_153127_Wisp.io.arcano.base.zip",
+    "fileSize": "11,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660247"
+  },
+  {
+    "id": "windrunner_arcano_base",
+    "name": "Windrunner arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_windrunner_arcano_base/20261003_153131_Windrunner.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_windrunner_arcano_base/20261003_153131_Windrunner.arcano.base.zip",
+    "fileSize": "22,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660274"
+  },
+  {
+    "id": "vengeful__arcano_base",
+    "name": "vengeful  arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_vengeful__arcano_base/20261003_153136_vengeful.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_vengeful__arcano_base/20261003_153136_vengeful.arcano.base.zip",
+    "fileSize": "48,0 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660301"
+  },
+  {
+    "id": "terrorblade_verde_ext",
+    "name": "Terrorblade verde ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_verde_ext/20261003_153147_Terrorblade.verde.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_verde_ext/20261003_153147_Terrorblade.verde.ext.zip",
+    "fileSize": "20,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660356"
+  },
+  {
+    "id": "terrorblade_rosa_ext",
+    "name": "Terrorblade rosa ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_rosa_ext/20261003_153153_Terrorblade.rosa.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_rosa_ext/20261003_153153_Terrorblade.rosa.ext.zip",
+    "fileSize": "20,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660385"
+  },
+  {
+    "id": "terrorblade_rosa_bajito_ext",
+    "name": "Terrorblade rosa bajito ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_rosa_bajito_ext/20261003_153158_Terrorblade.rosa.bajito.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_rosa_bajito_ext/20261003_153158_Terrorblade.rosa.bajito.ext.zip",
+    "fileSize": "20,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660413"
+  },
+  {
+    "id": "terrorblade_rojo_ext",
+    "name": "Terrorblade rojo ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_rojo_ext/20261003_153204_Terrorblade.rojo.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_rojo_ext/20261003_153204_Terrorblade.rojo.ext.zip",
+    "fileSize": "20,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660446"
+  },
+  {
+    "id": "terrorblade_naranja_ext",
+    "name": "Terrorblade naranja ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_naranja_ext/20261003_153209_Terrorblade.naranja.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_naranja_ext/20261003_153209_Terrorblade.naranja.ext.zip",
+    "fileSize": "20,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660476"
+  },
+  {
+    "id": "terrorblade_lila_ext",
+    "name": "Terrorblade lila ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_lila_ext/20261003_153214_Terrorblade.lila.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_lila_ext/20261003_153214_Terrorblade.lila.ext.zip",
+    "fileSize": "20,1 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660508"
+  },
+  {
+    "id": "terrorblade_blanco_ext",
+    "name": "Terrorblade blanco ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_blanco_ext/20261003_153220_Terrorblade.blanco.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_blanco_ext/20261003_153220_Terrorblade.blanco.ext.zip",
+    "fileSize": "20,3 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660532"
+  },
+  {
+    "id": "terrorblade_amarillo_ext",
+    "name": "Terrorblade amarillo ext",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_amarillo_ext/20261003_153225_Terrorblade.amarillo.ext.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_terrorblade_amarillo_ext/20261003_153225_Terrorblade.amarillo.ext.zip",
+    "fileSize": "20,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660563"
+  },
+  {
+    "id": "techies__arcano_base",
+    "name": "Techies  arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_techies__arcano_base/20261003_153230_Techies.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_techies__arcano_base/20261003_153230_Techies.arcano.base.zip",
+    "fileSize": "12,8 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660593"
+  },
+  {
+    "id": "spectre__arcano_base",
+    "name": "Spectre  arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_spectre__arcano_base/20261003_153235_Spectre.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_spectre__arcano_base/20261003_153235_Spectre.arcano.base.zip",
+    "fileSize": "18,6 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660614"
+  },
+  {
+    "id": "skywrath_mage__arcano_base",
+    "name": "Skywrath Mage  arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_skywrath_mage__arcano_base/20261003_153240_Skywrath.Mage.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_skywrath_mage__arcano_base/20261003_153240_Skywrath.Mage.arcano.base.zip",
+    "fileSize": "40,7 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660648"
+  },
+  {
+    "id": "shadow_fiend__arcano_base",
+    "name": "shadow fiend  arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_shadow_fiend__arcano_base/20261003_153248_shadow.fiend.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_shadow_fiend__arcano_base/20261003_153248_shadow.fiend.arcano.base.zip",
+    "fileSize": "12,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660706"
+  },
+  {
+    "id": "rubick_arcano_base",
+    "name": "Rubick arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_rubick_arcano_base/20261003_153252_Rubick.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_rubick_arcano_base/20261003_153252_Rubick.arcano.base.zip",
+    "fileSize": "15,0 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660728"
+  },
+  {
+    "id": "razor_arcano_base_azul",
+    "name": "Razor arcano base azul",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_razor_arcano_base_azul/20261003_153257_Razor.arcano.base.azul.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_razor_arcano_base_azul/20261003_153257_Razor.arcano.base.azul.zip",
+    "fileSize": "11,9 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660761"
+  },
+  {
+    "id": "queenofpain_arcano_base_rojo",
+    "name": "Queenofpain arcano base rojo",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_queenofpain_arcano_base_rojo/20261003_153301_Queenofpain.arcano.base.rojo.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_queenofpain_arcano_base_rojo/20261003_153301_Queenofpain.arcano.base.rojo.zip",
+    "fileSize": "21,8 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660777"
+  },
+  {
+    "id": "pudge_arcano_base_rojo",
+    "name": "Pudge arcano base rojo",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_arcano_base_rojo/20261003_153307_Pudge.arcano.base.rojo.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_arcano_base_rojo/20261003_153307_Pudge.arcano.base.rojo.zip",
+    "fileSize": "25,4 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660799"
+  },
+  {
+    "id": "phantom_assassin_arcano_lvl_3_base",
+    "name": "Phantom Assassin arcano lvl 3 base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_phantom_assassin_arcano_lvl_3_base/20261003_153313_Phantom.Assassin.arcano.lvl.3.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_phantom_assassin_arcano_lvl_3_base/20261003_153313_Phantom.Assassin.arcano.lvl.3.base.zip",
+    "fileSize": "5,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660838"
+  },
+  {
+    "id": "ogre_magi_arcano_base",
+    "name": "Ogre Magi arcano base",
+    "description": "arcano base solo para poder mixear a gusto",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_ogre_magi_arcano_base/20261003_153316_Ogre.Magi.arcano.base.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_ogre_magi_arcano_base/20261003_153316_Ogre.Magi.arcano.base.zip",
+    "fileSize": "47,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "402660859"
   }
 ]
