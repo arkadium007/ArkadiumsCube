@@ -628,5 +628,174 @@
       "arcana"
     ],
     "githubReleaseId": "402660859"
+  },
+  {
+    "id": "skywrath_mage_arcano_base_alt",
+    "name": "Skywrath Mage arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_skywrath_mage_arcano_base_alt/20261003_190518_Skywrath.Mage.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_skywrath_mage_arcano_base_alt/20261003_190518_Skywrath.Mage.arcano.base.alt.zip",
+    "fileSize": "42,4 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726625"
+  },
+  {
+    "id": "spectre_arcano_base_alt",
+    "name": "Spectre arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_spectre_arcano_base_alt/20261003_190527_Spectre.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_spectre_arcano_base_alt/20261003_190527_Spectre.arcano.base.alt.zip",
+    "fileSize": "20,2 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726675"
+  },
+  {
+    "id": "windrunner_arcano_base_alt",
+    "name": "Windrunner arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_windrunner_arcano_base_alt/20261003_190533_Windrunner.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_windrunner_arcano_base_alt/20261003_190533_Windrunner.arcano.base.alt.zip",
+    "fileSize": "24,5 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726702"
+  },
+  {
+    "id": "wk_arcano_base_alt",
+    "name": "wk arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wk_arcano_base_alt/20261003_190539_wk.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wk_arcano_base_alt/20261003_190539_wk.arcano.base.alt.zip",
+    "fileSize": "9,4 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726734"
+  },
+  {
+    "id": "drow_arcano_base_alt",
+    "name": "Drow arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_drow_arcano_base_alt/20261003_190543_Drow.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_drow_arcano_base_alt/20261003_190543_Drow.arcano.base.alt.zip",
+    "fileSize": "77,9 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726747"
+  },
+  {
+    "id": "earthshaker_arcano_base_alt",
+    "name": "Earthshaker arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earthshaker_arcano_base_alt/20261003_190557_Earthshaker.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earthshaker_arcano_base_alt/20261003_190557_Earthshaker.arcano.base.alt.zip",
+    "fileSize": "25,0 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726808"
+  },
+  {
+    "id": "faceless_void_arcano_base_alt",
+    "name": "Faceless Void arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_faceless_void_arcano_base_alt/20261003_190604_Faceless.Void.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_faceless_void_arcano_base_alt/20261003_190604_Faceless.Void.arcano.base.alt.zip",
+    "fileSize": "21,7 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726839"
+  },
+  {
+    "id": "juggernaut_arcano_base_alt",
+    "name": "Juggernaut arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_juggernaut_arcano_base_alt/20261003_190609_Juggernaut.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_juggernaut_arcano_base_alt/20261003_190609_Juggernaut.arcano.base.alt.zip",
+    "fileSize": "13,7 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726866"
+  },
+  {
+    "id": "ogre_magi_arcano_base_alt",
+    "name": "Ogre Magi arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_ogre_magi_arcano_base_alt/20261003_190613_Ogre.Magi.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_ogre_magi_arcano_base_alt/20261003_190613_Ogre.Magi.arcano.base.alt.zip",
+    "fileSize": "49,3 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726889"
+  },
+  {
+    "id": "phantom_assassin_arcano_base_alt",
+    "name": "Phantom Assassin arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_phantom_assassin_arcano_base_alt/20261003_190623_Phantom.Assassin.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_phantom_assassin_arcano_base_alt/20261003_190623_Phantom.Assassin.arcano.base.alt.zip",
+    "fileSize": "7,2 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726928"
+  },
+  {
+    "id": "pudge_arcano_base_alt",
+    "name": "Pudge arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_arcano_base_alt/20261003_190627_Pudge.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_arcano_base_alt/20261003_190627_Pudge.arcano.base.alt.zip",
+    "fileSize": "27,7 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726945"
+  },
+  {
+    "id": "queenofpain_arcano_base_alt",
+    "name": "Queenofpain arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_queenofpain_arcano_base_alt/20261003_190634_Queenofpain.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_queenofpain_arcano_base_alt/20261003_190634_Queenofpain.arcano.base.alt.zip",
+    "fileSize": "23,8 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402726977"
+  },
+  {
+    "id": "razor_arcano_base_alt",
+    "name": "Razor arcano base alt",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_razor_arcano_base_alt/20261003_190640_Razor.arcano.base.alt.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_razor_arcano_base_alt/20261003_190640_Razor.arcano.base.alt.zip",
+    "fileSize": "13,8 MB",
+    "tags": [
+      "arcana"
+    ],
+    "githubReleaseId": "402727004"
   }
 ]
