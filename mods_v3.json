@@ -328,13 +328,14 @@
   {
     "id": "wisp_io_arcano_base",
     "name": "Wisp io arcano base",
-    "description": "arcano base solo ",
+    "description": "arcano base solo",
     "version": "1.0",
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wisp_io_arcano_base/20261003_153127_Wisp.io.arcano.base.jpg",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_wisp_io_arcano_base/20261003_153127_Wisp.io.arcano.base.zip",
     "fileSize": "11,1 MB",
     "tags": [
-      "Otros"
+      "Otros",
+      "arcana"
     ],
     "githubReleaseId": "402660247"
   },
