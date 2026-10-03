@@ -267,14 +267,15 @@
   },
   {
     "id": "earthshaker_arcano_base_rojo_",
-    "name": "Earthshaker arcano base rojo ",
+    "name": "Earthshaker arcano base rojo",
     "description": "arcano base solo para poder mixear a gusto",
     "version": "1.0",
     "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earthshaker_arcano_base_rojo_/20261003_153056_Earthshaker.arcano.base.rojo.jpg",
     "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earthshaker_arcano_base_rojo_/20261003_153056_Earthshaker.arcano.base.rojo.zip",
     "fileSize": "22,6 MB",
     "tags": [
-      "Otros"
+      "Otros",
+      "arcana"
     ],
     "githubReleaseId": "402660063"
   },
