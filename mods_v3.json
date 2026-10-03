@@ -12,5 +12,19 @@
       "darkness"
     ],
     "githubReleaseId": "402292110"
+  },
+  {
+    "id": "zeus_arcano",
+    "name": "zeus arcano",
+    "description": "zeus arcano\u002Binmortales",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_zeus_arcano/20261002_230638_zeus.arcano.png",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_zeus_arcano/20261002_230638_zeus.arcano.zip",
+    "fileSize": "13,0 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "402296496"
   }
 ]
