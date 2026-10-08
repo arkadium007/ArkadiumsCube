@@ -797,5 +797,18 @@
       "arcana"
     ],
     "githubReleaseId": "402727004"
+  },
+  {
+    "id": "witchdoctor_monito",
+    "name": "Witchdoctor monito",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_witchdoctor_monito/20261007_233414_Witchdoctor.monito.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_witchdoctor_monito/20261007_233414_Witchdoctor.monito.zip",
+    "fileSize": "13,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406384504"
   }
 ]
