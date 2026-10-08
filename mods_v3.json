@@ -1032,5 +1032,99 @@
       "Otros"
     ],
     "githubReleaseId": "406471169"
+  },
+  {
+    "id": "batrider_chubzarik_prime",
+    "name": "Batrider Chubzarik Prime",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_batrider_chubzarik_prime/20261008_134635_Batrider.Chubzarik.Prime.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_batrider_chubzarik_prime/20261008_134635_Batrider.Chubzarik.Prime.zip",
+    "fileSize": "15,4 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "407107982"
+  },
+  {
+    "id": "dazzle_graveman",
+    "name": "Dazzle Graveman",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_dazzle_graveman/20261008_134641_Dazzle.Graveman.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_dazzle_graveman/20261008_134641_Dazzle.Graveman.zip",
+    "fileSize": "6,0 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "407108065"
+  },
+  {
+    "id": "legion_commander_diretide",
+    "name": "Legion Commander Diretide",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_legion_commander_diretide/20261008_134645_Legion.Commander.Diretide.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_legion_commander_diretide/20261008_134645_Legion.Commander.Diretide.zip",
+    "fileSize": "7,5 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "407108105"
+  },
+  {
+    "id": "pudge_arcana_diretide",
+    "name": "Pudge Arcana Diretide",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_arcana_diretide/20261008_134648_Pudge.Arcana.Diretide.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_pudge_arcana_diretide/20261008_134648_Pudge.Arcana.Diretide.zip",
+    "fileSize": "20,1 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "407108153"
+  },
+  {
+    "id": "slardar_diretide_shimmer",
+    "name": "Slardar Diretide Shimmer",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_slardar_diretide_shimmer/20261008_134654_Slardar.Diretide.Shimmer.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_slardar_diretide_shimmer/20261008_134654_Slardar.Diretide.Shimmer.zip",
+    "fileSize": "8,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "407108227"
+  },
+  {
+    "id": "treant_protector_diretide",
+    "name": "Treant Protector Diretide",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_treant_protector_diretide/20261008_134658_Treant.Protector.Diretide.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_treant_protector_diretide/20261008_134658_Treant.Protector.Diretide.zip",
+    "fileSize": "6,3 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "407108267"
+  },
+  {
+    "id": "venge_imperia_arcana",
+    "name": "venge imperia arcana",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_venge_imperia_arcana/20261008_134701_venge.imperia.arcana.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_venge_imperia_arcana/20261008_134701_venge.imperia.arcana.zip",
+    "fileSize": "11,1 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "407108315"
   }
 ]
