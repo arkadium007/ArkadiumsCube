@@ -803,12 +803,233 @@
     "name": "Witchdoctor monito",
     "description": "",
     "version": "1.0",
-    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_witchdoctor_monito/20261007_233414_Witchdoctor.monito.jpg",
-    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_witchdoctor_monito/20261007_233414_Witchdoctor.monito.zip",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_witchdoctor_monito/20261008_015743_Witchdoctor.monito.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_witchdoctor_monito/20261008_015743_Witchdoctor.monito.zip",
     "fileSize": "13,2 MB",
     "tags": [
       "Otros"
     ],
     "githubReleaseId": "406384504"
+  },
+  {
+    "id": "earth_spirit_green",
+    "name": "Earth Spirit green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earth_spirit_green/20261008_015728_Earth.Spirit.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_earth_spirit_green/20261008_015728_Earth.Spirit.green.zip",
+    "fileSize": "15,8 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470359"
+  },
+  {
+    "id": "drow_verde_sylvana",
+    "name": "Drow verde sylvana",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_drow_verde_sylvana/20261008_015734_Drow.verde.sylvana.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_drow_verde_sylvana/20261008_015734_Drow.verde.sylvana.zip",
+    "fileSize": "11,0 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470408"
+  },
+  {
+    "id": "antimage_green",
+    "name": "Antimage green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_antimage_green/20261008_015738_Antimage.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_antimage_green/20261008_015738_Antimage.green.zip",
+    "fileSize": "14,7 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470448"
+  },
+  {
+    "id": "weaver_green",
+    "name": "Weaver green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_weaver_green/20261008_015746_Weaver.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_weaver_green/20261008_015746_Weaver.green.zip",
+    "fileSize": "15,0 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470529"
+  },
+  {
+    "id": "timber_green",
+    "name": "timber green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_timber_green/20261008_015751_timber.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_timber_green/20261008_015751_timber.green.zip",
+    "fileSize": "18,7 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470568"
+  },
+  {
+    "id": "spectre_green",
+    "name": "Spectre green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_spectre_green/20261008_015756_Spectre.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_spectre_green/20261008_015756_Spectre.green.zip",
+    "fileSize": "9,4 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470620"
+  },
+  {
+    "id": "slark_green",
+    "name": "Slark green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_slark_green/20261008_015800_Slark.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_slark_green/20261008_015800_Slark.green.zip",
+    "fileSize": "14,8 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470650"
+  },
+  {
+    "id": "siren_green",
+    "name": "Siren green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_siren_green/20261008_015805_Siren.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_siren_green/20261008_015805_Siren.green.zip",
+    "fileSize": "11,9 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470688"
+  },
+  {
+    "id": "shadow_fiend_verde",
+    "name": "shadow fiend verde",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_shadow_fiend_verde/20261008_015809_shadow.fiend.verde.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_shadow_fiend_verde/20261008_015809_shadow.fiend.verde.zip",
+    "fileSize": "12,8 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470732"
+  },
+  {
+    "id": "morphling",
+    "name": "Morphling",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_morphling/20261008_015813_Morphling.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_morphling/20261008_015813_Morphling.zip",
+    "fileSize": "7,6 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470769"
+  },
+  {
+    "id": "monkey_king_green",
+    "name": "Monkey King green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_monkey_king_green/20261008_015817_Monkey.King.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_monkey_king_green/20261008_015817_Monkey.King.green.zip",
+    "fileSize": "39,6 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470795"
+  },
+  {
+    "id": "meepo_verde",
+    "name": "Meepo verde",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_meepo_verde/20261008_015826_Meepo.verde.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_meepo_verde/20261008_015826_Meepo.verde.zip",
+    "fileSize": "12,7 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470866"
+  },
+  {
+    "id": "kunkka_verde",
+    "name": "Kunkka verde",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_kunkka_verde/20261008_015830_Kunkka.verde.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_kunkka_verde/20261008_015830_Kunkka.verde.zip",
+    "fileSize": "6,6 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470905"
+  },
+  {
+    "id": "juggernaut_green_rubick",
+    "name": "Juggernaut green rubick",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_juggernaut_green_rubick/20261008_015834_Juggernaut.green.rubick.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_juggernaut_green_rubick/20261008_015834_Juggernaut.green.rubick.zip",
+    "fileSize": "28,5 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470929"
+  },
+  {
+    "id": "io_mexico",
+    "name": "Io mexico",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_io_mexico/20261008_015840_Io.mexico.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_io_mexico/20261008_015840_Io.mexico.zip",
+    "fileSize": "90,5 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406470983"
+  },
+  {
+    "id": "invoker_green_muerte",
+    "name": "invoker green muerte",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_invoker_green_muerte/20261008_015858_invoker.green.muerte.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_invoker_green_muerte/20261008_015858_invoker.green.muerte.zip",
+    "fileSize": "23,2 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406471118"
+  },
+  {
+    "id": "ember_spirit_green",
+    "name": "Ember Spirit green",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_ember_spirit_green/20261008_015904_Ember.Spirit.green.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_ember_spirit_green/20261008_015904_Ember.Spirit.green.zip",
+    "fileSize": "15,4 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "406471169"
   }
 ]
