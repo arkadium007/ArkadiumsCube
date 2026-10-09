@@ -1135,5 +1135,131 @@
       "arcana"
     ],
     "githubReleaseId": "407108315"
+  },
+  {
+    "id": "mix_polys",
+    "name": "mix polys",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_mix_polys/20261008_201355_mix.polys.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_mix_polys/20261008_201355_mix.polys.zip",
+    "fileSize": "5,4 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366527"
+  },
+  {
+    "id": "algas",
+    "name": "algas",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_algas/20261008_201359_algas.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_algas/20261008_201359_algas.zip",
+    "fileSize": "1,0 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366567"
+  },
+  {
+    "id": "arbustos_tree",
+    "name": "arbustos tree",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_arbustos_tree/20261008_201401_arbustos.tree.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_arbustos_tree/20261008_201401_arbustos.tree.zip",
+    "fileSize": "0,9 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366587"
+  },
+  {
+    "id": "calabazas",
+    "name": "calabazas",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_calabazas/20261008_201403_calabazas.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_calabazas/20261008_201403_calabazas.zip",
+    "fileSize": "2,2 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366607"
+  },
+  {
+    "id": "carton_trees",
+    "name": "carton trees",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_carton_trees/20261008_201405_carton.trees.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_carton_trees/20261008_201405_carton.trees.zip",
+    "fileSize": "1,2 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366629"
+  },
+  {
+    "id": "cone_trees",
+    "name": "cone trees",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_cone_trees/20261008_201408_cone.trees.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_cone_trees/20261008_201408_cone.trees.zip",
+    "fileSize": "1,1 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366655"
+  },
+  {
+    "id": "dark_poly_terreno",
+    "name": "dark poly terreno",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_dark_poly_terreno/20261008_201410_dark.poly.terreno.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_dark_poly_terreno/20261008_201410_dark.poly.terreno.zip",
+    "fileSize": "35,3 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366681"
+  },
+  {
+    "id": "low_poly_terrain",
+    "name": "low poly terrain",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_low_poly_terrain/20261008_201419_low.poly.terrain.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_low_poly_terrain/20261008_201419_low.poly.terrain.zip",
+    "fileSize": "10,3 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366772"
+  },
+  {
+    "id": "low_polys_trees_v1",
+    "name": "low polys trees v1",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_low_polys_trees_v1/20261008_201424_low.polys.trees.v1.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_low_polys_trees_v1/20261008_201424_low.polys.trees.v1.zip",
+    "fileSize": "1,2 MB",
+    "tags": [
+      "Otros",
+      "darkness"
+    ],
+    "githubReleaseId": "407366809"
   }
 ]
