@@ -1261,5 +1261,61 @@
       "darkness"
     ],
     "githubReleaseId": "407366809"
+  },
+  {
+    "id": "tidehunter_vetmo_gargantuar",
+    "name": "Tidehunter Vetmo gargantuar",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_vetmo_gargantuar/20261012_162454_Tidehunter.Vetmo.gargantuar.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_vetmo_gargantuar/20261012_162454_Tidehunter.Vetmo.gargantuar.zip",
+    "fileSize": "28,2 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "410971066"
+  },
+  {
+    "id": "tidehunter_hammer_of_maeldrawn_martillo",
+    "name": "Tidehunter Hammer Of Maeldrawn martillo",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_hammer_of_maeldrawn_martillo/20261012_162502_Tidehunter.Hammer.Of.Maeldrawn.martillo.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_hammer_of_maeldrawn_martillo/20261012_162502_Tidehunter.Hammer.Of.Maeldrawn.martillo.zip",
+    "fileSize": "5,1 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "410971154"
+  },
+  {
+    "id": "tidehunter_maw_of_megalodon_blanco",
+    "name": "Tidehunter Maw Of Megalodon blanco",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_maw_of_megalodon_blanco/20261012_162506_Tidehunter.Maw.Of.Megalodon.blanco.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_maw_of_megalodon_blanco/20261012_162506_Tidehunter.Maw.Of.Megalodon.blanco.zip",
+    "fileSize": "6,1 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "410971210"
+  },
+  {
+    "id": "tidehunter_unfathomable_hunger_verde",
+    "name": "Tidehunter Unfathomable Hunger verde",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_unfathomable_hunger_verde/20261012_162510_Tidehunter.Unfathomable.Hunger.verde.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_tidehunter_unfathomable_hunger_verde/20261012_162510_Tidehunter.Unfathomable.Hunger.verde.zip",
+    "fileSize": "6,3 MB",
+    "tags": [
+      "Otros",
+      "arcana"
+    ],
+    "githubReleaseId": "410971256"
   }
 ]
