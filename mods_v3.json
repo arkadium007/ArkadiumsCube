@@ -1317,5 +1317,31 @@
       "arcana"
     ],
     "githubReleaseId": "410971256"
+  },
+  {
+    "id": "creeps_dire_warcraft_3",
+    "name": "creeps dire warcraft 3",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_creeps_dire_warcraft_3/20261109_025349_creeps.dire.warcraft.3.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_creeps_dire_warcraft_3/20261109_025349_creeps.dire.warcraft.3.zip",
+    "fileSize": "23,0 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "438816672"
+  },
+  {
+    "id": "crees_radiant_warcraft_3",
+    "name": "crees radiant warcraft 3",
+    "description": "",
+    "version": "1.0",
+    "imageUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_crees_radiant_warcraft_3/20261109_025406_crees.radiant.warcraft.3.jpg",
+    "downloadUrl": "https://github.com/arkadium007/ArkadiumsCube/releases/download/Release_crees_radiant_warcraft_3/20261109_025406_crees.radiant.warcraft.3.zip",
+    "fileSize": "34,8 MB",
+    "tags": [
+      "Otros"
+    ],
+    "githubReleaseId": "438816805"
   }
 ]
